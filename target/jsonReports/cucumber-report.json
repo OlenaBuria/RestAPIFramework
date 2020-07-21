@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-06-04T20:46:41.653Z",
+        "start_timestamp": "2020-07-20T19:36:13.687Z",
         "line": 14,
         "name": "Verify if Place is being successfully added using AddPlaceAPI",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1066000000,
+              "duration": 1001000000,
               "status": "passed"
             },
             "line": 5,
@@ -39,7 +39,7 @@
           },
           {
             "result": {
-              "duration": 2226000000,
+              "duration": 2700000000,
               "status": "passed"
             },
             "line": 6,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 510000000,
+              "duration": 496000000,
               "status": "passed"
             },
             "line": 8,
@@ -123,7 +123,7 @@
           },
           {
             "result": {
-              "duration": 1631000000,
+              "duration": 2133000000,
               "status": "passed"
             },
             "line": 10,
@@ -154,7 +154,7 @@
         ]
       },
       {
-        "start_timestamp": "2020-06-04T20:46:47.158Z",
+        "start_timestamp": "2020-07-20T19:36:20.089Z",
         "before": [
           {
             "result": {
@@ -187,7 +187,7 @@
           },
           {
             "result": {
-              "duration": 1621000000,
+              "duration": 3878000000,
               "status": "passed"
             },
             "line": 21,
@@ -226,7 +226,7 @@
           },
           {
             "result": {
-              "duration": 8000000,
+              "duration": 9000000,
               "status": "passed"
             },
             "line": 23,
